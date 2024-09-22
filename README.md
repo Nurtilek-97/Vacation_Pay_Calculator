@@ -1,4 +1,5 @@
 Neoflex-test-task-java
+
 Тестовое задание для учебного центра Neoflex, 2024
 
 Приложение "Калькулятор отпускных".
@@ -17,9 +18,9 @@ http://localhost:8089/calculacte?averageSalary=40000.00&vacationDays=30
 http://localhost:8089/calculacte?averageSalary=40000.00&vacationDays=30&startVacationDate=2024-10-01
 
 Cтек проекта
-SpringBoot
-Maven Java 17
-Stream API
-jUnit
-MockMvc
-Swagger
+SpringBoot  
+Maven Java 17   
+Stream API   
+jUnit   
+MockMvc   
+Swagger  
